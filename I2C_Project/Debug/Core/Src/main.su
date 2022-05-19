@@ -1,0 +1,11 @@
+main.c:20:6:ResetI2C	16	static
+main.c:35:5:main	112	static
+main.c:80:6:SystemClock_Config	88	static
+main.c:126:13:MX_I2C1_Init	8	static
+main.c:152:13:MX_TIM1_Init	32	static
+main.c:199:13:MX_GPIO_Init	48	static
+main.c:242:6:StartDefaultTask	16	static
+main.c:260:6:IRTask_Start	16	static
+main.c:287:6:I2CSendTask_Start	16	static
+main.c:324:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:341:6:Error_Handler	4	static,ignoring_inline_asm
